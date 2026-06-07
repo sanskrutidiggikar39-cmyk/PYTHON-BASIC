@@ -2,4 +2,4 @@ tuple = ("apple", "banana", ("edha", "jin")*2 ,"cherry", 3, 4)
 
 print(tuple[1:7])
 print(tuple[10])
-print(tuple)
+print(tuple
